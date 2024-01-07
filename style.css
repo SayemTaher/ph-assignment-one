@@ -29,11 +29,11 @@ button{
 }
 @font-face {
     font-family: avenir;
-    src: url("/avenirltstd-roman-webfont.woff2");
+    src: url("avenirltstd-roman-webfont.woff2");
 }
 @font-face {
     font-family: avenirBold;
-    src: url("/avenirltstd-black-webfont.woff2");
+    src: url("avenirltstd-black-webfont.woff2");
 }
 
 /* Main content styling starts here */
@@ -48,7 +48,7 @@ main{
     margin: 3rem auto;
 }
 .banner{
-    background-image: url("/images/Banner\ Image.jpg");
+    background-image: url("images/Banner\ Image.jpg");
     background-repeat: no-repeat;
     backdrop-filter: brightness(70%);
     width:1320px;
@@ -109,7 +109,7 @@ main{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background-image: url("/images/Vectorrr.png");
+    background-image: url("images/Vectorrr.png");
     background-repeat: no-repeat;
     padding: 4rem;
     backdrop-filter: brightness(70%);
