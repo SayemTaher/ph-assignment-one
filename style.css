@@ -72,13 +72,13 @@ main{
     margin-bottom: 0.5rem;
     font-size: 1.5rem;
     z-index: 1;
-    text-shadow:2px 2px 4px var(--text-main-color);
+    text-shadow:2px 2px 4px var(--secondary-color);
 
 }
 .banner h1{
     font-size: 5rem;
     font-family: avenirBold;
-    text-shadow:2px 2px 4px var(--text-main-color);
+    text-shadow:2px 2px 4px var(--secondary-color);
     
 }
 .discount{
